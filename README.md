@@ -11,11 +11,6 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubguy132010&layout=compact&theme=radical)
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <!---
 Githubguy132010/Githubguy132010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
