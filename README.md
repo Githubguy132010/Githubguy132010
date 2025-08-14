@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on the development of [PilkDots](https://github.com/PilkDrinker/PilkDots) from [PilkDrinker/Ollie](https://github.com/PilkDrinker/)
 - 📫 How to reach me: Contact me at thomas.brugman.teb3@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a 14 y.o guy.
 
 ## GitHub Stats
 ![Githubguy132010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Githubguy132010&show_icons=true&theme=radical)
