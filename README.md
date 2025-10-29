@@ -26,9 +26,8 @@
 ## 🌟 Highlighted Projects
 | Project | Description | Tech |
 | --- | --- | --- |
-| [PilkDots](https://github.com/PilkDrinker/PilkDots) | A collaborative project bringing personality to the desktop experience. | Electron, CSS, JavaScript |
+| [PilkDots](https://github.com/PilkDrinker/PilkDots) | A collaborative project bringing personality to the desktop experience. | CSS, Shell |
 | [My Repositories](https://github.com/Githubguy132010?tab=repositories) | A collection of experiments, scripts, and creative proofs of concept. | Bash, YAML, Automation |
-| [Gists & Snippets](https://gist.github.com/Githubguy132010) | Handy utilities and quick hacks I use to learn and iterate fast. | Bash, Markdown |
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -36,9 +35,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githubguy132010&layout=compact&theme=radical" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Githubguy132010&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🗺️ What's Next?
