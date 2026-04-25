@@ -1,18 +1,8 @@
-# Thomas Brugman
-
 Developer focused on Linux systems, automation, and workflow optimization.
 
 ## Current Work
 
 Working on [PilkDots](https://github.com/PilkDrinker/PilkDots) - a desktop environment configuration project with [@PilkDrinker](https://github.com/PilkDrinker).
-
-## Technologies
-
-- Linux system administration
-- Bash scripting and automation
-- YAML/workflow configuration
-- Git version control
-- Docker containerization
 
 ## Repositories
 
