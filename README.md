@@ -1,6 +1,6 @@
 ## Current Work
 
-Working on [Kilo Code](kilo.ai)
+Working on [Kilo Code](https://www.kilo.ai)
 
 ## Repositories
 
